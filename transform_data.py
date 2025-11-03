@@ -99,7 +99,7 @@ print(f"   Records before deletion: {count_before}")
 # Delete records where hostname equals "Unknown" 
 delete_query = {
     "query": {
-        "term": {"hostname.keyword": "Unknown"}
+        "term": {"hostname.keyword": "unknown"}
     }
 }
  
