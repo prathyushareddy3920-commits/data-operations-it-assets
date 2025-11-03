@@ -44,6 +44,15 @@ Open the scripts: [index_data.py](index_data.py), [transform_data.py](transform_
 
 Embed images in Markdown where needed:
 ![Indexing success](visualization_screenshots/indexing_success.png)
+<img width="762" height="669" alt="accets by country " src="https://github.com/user-attachments/assets/3c51fd30-50c5-4908-b5fb-860f6a99510d" />
+<img width="728" height="499" alt="high vs low risk assets " src="https://github.com/user-attachments/assets/6a0644e6-5b1d-4b58-9f71-eeb74268424c" />
+<img width="680" height="568" alt="lifecycle status distribution " src="https://github.com/user-attachments/assets/83fe4963-4c84-4e0f-aae8-353ed8aa7db6" />
+<img width="912" height="589" alt="top os providers " src="https://github.com/user-attachments/assets/e2c3ee51-f9b5-4297-9256-ee68bf241f8e" />
+
+
+
+
+
 
 ## Final business insights and learnings
 - Risk prioritization: derived `risk_level` helps focus remediation on EOL/EOS systems.
